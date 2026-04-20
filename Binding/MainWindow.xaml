@@ -15,6 +15,7 @@
         <TextBox    Name="txtInput" Grid.Row="0"
             Width="250" Height="40"
             HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+            TextWrapping="Wrap"
             Text="{Binding BoundText, UpdateSourceTrigger=PropertyChanged, Mode=OneWayToSource}"
             />
         <Button Name="btnSet" Grid.Row="1"
