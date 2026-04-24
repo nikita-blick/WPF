@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox", "ListBox\ListBox.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTextboxControl", "CustomTextboxControl\CustomTextboxControl.csproj", "{B7AEDD50-7E9B-4F25-A7F5-D15855C65F10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyWPF", "AcademyWPF\AcademyWPF.csproj", "{2571E1E1-5A34-43C0-BBDA-AA5EEBA10115}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B7AEDD50-7E9B-4F25-A7F5-D15855C65F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7AEDD50-7E9B-4F25-A7F5-D15855C65F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7AEDD50-7E9B-4F25-A7F5-D15855C65F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2571E1E1-5A34-43C0-BBDA-AA5EEBA10115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2571E1E1-5A34-43C0-BBDA-AA5EEBA10115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2571E1E1-5A34-43C0-BBDA-AA5EEBA10115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2571E1E1-5A34-43C0-BBDA-AA5EEBA10115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
